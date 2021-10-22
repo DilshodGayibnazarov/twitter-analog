@@ -1,0 +1,14 @@
+.bottom-panel{
+    margin-top: 20px;
+}
+
+.bottom-panel .new-line-label{
+    width: auto;
+    flex-grow: 1;
+    margin-right: 25px;
+}
+
+.bottom-panel .btn{
+    margin-left: 5px;
+    width: 100px;
+}
